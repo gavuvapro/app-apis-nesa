@@ -1,0 +1,13 @@
+package com.nesa.app_apis;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppApisApplication {
+
+	public static void main(String[] args) {
+        SpringApplication.run(AppApisApplication.class, args);
+	}
+
+}
